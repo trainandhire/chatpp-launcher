@@ -107,7 +107,7 @@ var data= {
     }
 }
 
-document.getElementById("init").addEventListener("click",showChatBot);
+// document.getElementById("init").addEventListener("click",showChatBot);
 var cbot= document.getElementById("chat-box");
 
 var len1= data.chatinit.title.length;
